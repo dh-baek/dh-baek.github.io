@@ -2645,6 +2645,7 @@
 				margin-right: 1px;
 				vertical-align: middle;
 				width: calc(100% - 10px);
+                text-align: justify;
 			}
 
 		.main .goto-next {
